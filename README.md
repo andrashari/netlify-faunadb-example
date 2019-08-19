@@ -66,7 +66,7 @@ This application is using [React](https://reactjs.org/) for the frontend, [Netli
 2. Grab your [FaunaDB API key](https://dashboard.fauna.com/db/keys)
 3. Click the [Deploy to Netlify Button](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-faunadb-example)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-faunadb-example)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-faunadb-example) [![Greenkeeper badge](https://badges.greenkeeper.io/andrashari/netlify-faunadb-example.svg)](https://greenkeeper.io/)
 
 ![setup steps](https://user-images.githubusercontent.com/532272/42069927-28e1c436-7b09-11e8-96e9-272987fc9e15.gif)
 
